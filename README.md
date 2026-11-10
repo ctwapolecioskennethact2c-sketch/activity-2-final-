@@ -1,3 +1,4 @@
+# POLECIOS KENNETH F.
 # TECHHUB – Activity 2 
 
 This starter project applies:
@@ -20,5 +21,3 @@ Public registration always creates a regular `user` account. Only an administrat
 - `user/dashboard.php` – user dashboard
 - `user/products.php` – view products
 
-## Important
-This is a clean starter implementation based on the `users` and `products` table structure. Back up your Activity 1 database before combining it with your existing TECHHUB project. Do not import the SQL over an existing database without checking the table structures first. Preserve your existing design by copying the PHP logic into your current pages and keeping your CSS where needed.
